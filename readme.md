@@ -28,11 +28,21 @@ Install it: `gem install rspec`
 
 When we run the tests, it compares what our code does to what our tests expect, and tells us which pass and which fail.
 
-## Solution
+### Solution
 
 Checkout the branch `solution` for an example solution.
 
-
-## Bonus
+### Bonus
 
 Uncomment the bonus tests in `spec/monkey_spec` and make them pass.
+
+### Self Evaluation
+
+During the previous exercise, rate your progress on a scale of 1-5 (5 being the highest) for the following criteria:
+
+- **Persistence:** Do you handle frustration well? Do you independently pursue understanding?
+- **Organization:** Do you thoughtfully implement best coding patterns and practices?
+- **Collaboration:** Do you make an effort solve problems and share your ideas with others?
+- **Communication:** Do you clearly convey your thoughts to others in illustrative and clear ways?
+- **Self-compassion:** Do you make productive use of turning failures into learning opportunities?
+- **Resourcefulness:** Do make an effort to compare and contrast new ideas with ones you already know? 
